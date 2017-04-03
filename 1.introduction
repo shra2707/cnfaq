@@ -22,3 +22,31 @@ application sharing , lan gaming and many more.
 7. What is internet ?
 
 
+8.what is data communication?
+The exchange of data in the form of 0's and 1's between two devices through a transmission medium is Data Communication.
+
+9.Components of data communication
+
+   1. Message : It is the information to be delivered.
+   2. Sender : Sender is the person who is sending the message.
+   3. Receiver : Receiver is the person to him the message is to be delivered.
+   4.Medium : It is the medium through which message is to be sent for example modem.
+   5. Protocol : These are some set of rules which govern data communication.
+   
+10. what is peer-to-peer network?
+       In a peer-to-peer network, each computer holds its files and resources.
+    All computers have the same status,hence the term 'peer',and they communicate with each other on an equal footing.  
+
+11.what is lan,man and wan?
+    Network in small geographical Area (Room, Building or a Campus) is called LAN (Local Area Network)
+    Network in a City is called MAN (Metropolitan Area Network)
+    Network spread geographically (Country or across Globe) is called WAN (Wide Area Network)
+
+12.Applications of network
+    1.Resource Sharing
+    2.Information Sharing
+    3.communication
+    4.Remote computing
+    5.distributed processing(Grid processing)
+
+

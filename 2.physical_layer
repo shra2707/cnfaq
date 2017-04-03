@@ -1,0 +1,21 @@
+1.What is physical Layer?
+  Physical layer is the lowest layer of all. It is responsible for sending bits from one computer to another.
+  This layer defines electrical and physical details represented as 0 or a 1.
+
+2.Functions of physical layer?
+  1.representation of bits
+  2.data rate
+  3.Synchronization
+  4.interface
+  5.topologies
+ 
+3. Types of Medium
+   Medium can be classified into 2 categories.
+  Guided Media : Guided media means that signals is guided  by the prescence of physical media i.e. signals are under control and remains in the physical wire. For eg. copper wire.
+  Unguided Media : Unguided Media means that there is no physical path for the signal to propogate. Unguided media are essentially electro-magnetic waves. There is no control on flow of signal. For eg. radio waves. 
+
+4. What is switching?
+Switching is a mechanism by which data/information sent from source towards destination which are not directly connected. 
+
+5.Types of switching
+circuit switching,message switching,packet switching
